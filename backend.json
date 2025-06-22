@@ -1,0 +1,305 @@
+[
+    {
+
+        "Continente": "Europa",
+        "times": [
+            {
+                "time" : "Real Madrid",
+                "imagem": "img/times/realmadrid.png"
+            },
+            {
+                "time" : "Barcelona",
+                "imagem": "img/times/barcelona.png"
+            },
+            {
+                "time" : "Atlético de Madrid",
+                "imagem": "img/times/atleticodemadrid.png"
+            },
+            {
+                "time" : "Chelsea",
+                "imagem": "img/times/chelsea.png"
+            },
+
+            {
+                "time" : "Liverpool",
+                "imagem": "img/times/liverpool.png"
+            },
+
+            {
+                "time" : "Manchester United",
+                "imagem": "img/times/united.png"
+            },
+            
+            {
+                "time" : "Manchester City",
+                "imagem": "img/times/city.png"
+            },
+
+            {
+                "time" : "Arsenal",
+                "imagem": "img/times/arsenal.png"
+            },
+
+             {
+                "time" : "Aston Vila",
+                "imagem": "img/times/aston.png"
+            },
+
+             {
+                "time" : "Atalanta",
+                "imagem": "img/times/atalanta.png"
+            },
+            {
+                "time" : "Atlético Bilbão",
+                "imagem": "img/times/athletic.png"
+            },
+
+        {
+                "time" : "Bayern Munich",
+                "imagem": "img/times/bayernmu.png"
+            },
+             {
+                "time" : "Dortmund",
+                "imagem": "img/times/dortmund.png"
+            },
+            {
+                "time" : "Everton",
+                "imagem": "img/times/everton.png"
+            },
+            {
+                "time" : "Fulham",
+                "imagem": "img/times/fulham.png"
+            },
+            {
+                "time" : "Inter de Milão",
+                "imagem": "img/times/intermilao.png"
+            },
+             {
+                "time" : "Juventus",
+                "imagem": "img/times/juventus.png"
+            },
+             {
+                "time" : "Lazio",
+                "imagem": "img/times/lazio.png"
+            },
+             {
+                "time" : "Leverkusen",
+                "imagem": "img/times/leverkusen.png"
+            },
+             {
+                "time" : "Marseille",
+                "imagem": "img/times/marseille.png"
+            },
+            {
+                "time" : "Milan",
+                "imagem": "img/times/milan.png"
+            },
+            {
+                "time" : "PSG",
+                "imagem": "img/times/psg.png"
+            },
+            {
+                "time" : "RB LEIPZIG",
+                "imagem": "img/times/rb_leipzig_ale.png"
+            },
+             {
+                "time" : "Roma",
+                "imagem": "img/times/roma.png"
+            },
+            {
+                "time" : "Tottenham",
+                "imagem": "img/times/tottenham.png"
+            },
+            {
+                "time" : "Westham",
+                "imagem": "img/times/westham.png"
+            },
+            
+            {
+                "time" : "Ajax",
+                "imagem": "img/times/ajax.png"
+            },
+
+            {
+                "time" : "Benfica",
+                "imagem": "img/times/benfica.png"
+            },
+
+            {
+                "time" : "Napoli",
+                "imagem": "img/times/napoli.png"
+            },
+
+            
+            {
+                "time" : "Fiorentina",
+                "imagem": "img/times/fiore.png"
+            },
+            
+
+            
+            {
+                "time" : "Porto",
+                "imagem": "img/times/porto.png"
+            },
+
+               
+            {
+                "time" : "PSV",
+                "imagem": "img/times/psv.png"
+            }]
+
+
+
+    
+    },
+
+    {
+
+        "Continente": "America Do Sul",
+        "times": [
+            {
+                "time" : "Flamengo",
+                "imagem": "img/times/fla.png"
+            },
+             {
+                "time" : "Internacional",
+                "imagem": "img/times/interrs.png"
+            },
+             {
+                "time" : "Santos",
+                "imagem": "img/times/santos.png"
+            },
+             {
+                "time" : "São Paulo",
+                "imagem": "img/times/saopaulo.png"
+            },
+             {
+                "time" : "Palmeiras",
+                "imagem": "img/times/palmeiras.png"
+            },
+             {
+                "time" : "Fluminense",
+                "imagem": "img/times/fluminense.png"
+            },
+             {
+                "time" : "Cruzeiro",
+                "imagem": "img/times/cruzeiro.png"
+            },
+             {
+                "time" : "Corinthians",
+                "imagem": "img/times/corinthians.png"
+            },
+             {
+                "time" : "Botafogo",
+                "imagem": "img/times/botafogo.gif"
+            },
+             {
+                "time" : "Boca Juniors",
+                "imagem": "img/times/boca.png"
+            },
+             {
+                "time" : "Lanus",
+                "imagem": "img/times/lanusc.png"
+            },
+             {
+                "time" : "River Plate",
+                "imagem": "img/times/riverc.png"
+            },
+             {
+                "time" : "Racing",
+                "imagem": "img/times/racing.png"
+            },
+             {
+                "time" : "Independiente",
+                "imagem": "img/times/indepc.png"
+            },
+             {
+                "time" : "San Lorenzo ",
+                "imagem": "img/times/san_loc.png"
+            },
+             {
+                "time" : "Defensa Y Justicia",
+                "imagem": "img/times/defensayjusticia.png"
+            },
+            {
+                "time" : "Central Cordoba",
+                "imagem": "img/times/central_cord_santiago_arg.png"
+            },
+            {
+                "time" : "Penarol",
+                "imagem": "img/times/penarol.png"
+            },
+             {
+                "time" : "Nacional URU",
+                "imagem": "img/times/naciouru.png"
+             },
+               {
+                "time" : "Universidade Catolica ECU",
+                "imagem": "img/times/un_catolica_ecu.png"
+             },
+              {
+                "time" : "LDU",
+                "imagem": "img/times/ldu.png"
+             },
+             {
+                "time" : "Emelec",
+                "imagem": "img/times/emelec.png"
+             },
+              {
+                "time" : "Barcelona EQU",
+                "imagem": "img/times/barcelonaeq.png"
+             },
+              {
+                "time" : "Libertad",
+                "imagem": "img/times/libertad.png"
+             },
+              {
+                "time" : "Cerro Porteno",
+                "imagem": "img/times/cerropor.jpg"
+             },
+              {
+                "time" : "Nacional PAR",
+                "imagem": "img/times/nacional_par.png"
+             },
+              {
+                "time" : "Olimpia",
+                "imagem": "img/times/olimpia.png"
+             },
+              {
+                "time" : "Cristal",
+                "imagem": "img/times/cristal.jpg"
+             },
+              {
+                "time" : "Deportes Tolima",
+                "imagem": "img/times/dtolima_col.png"
+             },
+             {
+                "time" : "Atlético Nacional",
+                "imagem": "img/times/medelin.png"
+             },
+             {
+                "time" : "Universidade Catolica Chile",
+                "imagem": "img/times/unicatolica.png"
+             },
+             {
+                "time" : "Universidade Del Chile",
+                "imagem": "img/times/unichile.png"
+             },
+             {
+                "time" : "Colo Colo",
+                "imagem": "img/times/colocolo.png"
+             },
+             {
+                "time" : "Bolivar",
+                "imagem": "img/times/bolivar.png"
+             }
+            
+        
+        ]
+
+}
+
+
+    
+]
