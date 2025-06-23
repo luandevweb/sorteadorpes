@@ -119,30 +119,18 @@ flex: 70%;
 }
 
 
-.um{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+#um{
+   margin-top: 10px;
 }
 
-#titulo{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+#um h2{
     color: white;
-    margin-top: 10px;
+    text-shadow: 2px 2px 1px black;
 }
 
-h4{
-        border-bottom: 2px solid black;
+h3{
+    margin-top: 3px;
 }
-.continente{
-    margin-top: 20px;
-}
-.continente img{
-    width: 300px;
-}
-
-
 
 
 .material-symbols-outlined{
@@ -152,4 +140,38 @@ h4{
    position: absolute;
    right: 0;
 }
+
+
+.page-content{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.page-content div{
+  
+   flex: 45%;
+   background-color: white;
+   margin: 5px;
+}
+
+.competicoes{
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 600;
+    height: 356px;
+    border: 2px solid black;
+}
+.competicoes img{
+    width: 150px;
+    height:300px;
+}
+
+
 

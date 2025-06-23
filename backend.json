@@ -5,148 +5,148 @@
         "times": [
             {
                 "time" : "Real Madrid",
-                "imagem": "img/times/realmadrid.png"
+                "imagem": "img/times/Europeus/realmadrid.png"
             },
             {
                 "time" : "Barcelona",
-                "imagem": "img/times/barcelona.png"
+                "imagem": "img/times/Europeus/barcelona.png"
             },
             {
                 "time" : "Atlético de Madrid",
-                "imagem": "img/times/atleticodemadrid.png"
+                "imagem": "img/times/Europeus/atleticodemadrid.png"
             },
             {
                 "time" : "Chelsea",
-                "imagem": "img/times/chelsea.png"
+                "imagem": "img/times/Europeus/chelsea.png"
             },
 
             {
                 "time" : "Liverpool",
-                "imagem": "img/times/liverpool.png"
+                "imagem": "img/times/Europeus/liverpool.png"
             },
 
             {
                 "time" : "Manchester United",
-                "imagem": "img/times/united.png"
+                "imagem": "img/times/Europeus/united.png"
             },
             
             {
                 "time" : "Manchester City",
-                "imagem": "img/times/city.png"
+                "imagem": "img/times/Europeus/city.png"
             },
 
             {
                 "time" : "Arsenal",
-                "imagem": "img/times/arsenal.png"
+                "imagem": "img/times/Europeus/arsenal.png"
             },
 
              {
                 "time" : "Aston Vila",
-                "imagem": "img/times/aston.png"
+                "imagem": "img/times/Europeus/aston.png"
             },
 
              {
                 "time" : "Atalanta",
-                "imagem": "img/times/atalanta.png"
+                "imagem": "img/times/Europeus/atalanta.png"
             },
             {
                 "time" : "Atlético Bilbão",
-                "imagem": "img/times/athletic.png"
+                "imagem": "img/times/Europeus/athletic.png"
             },
 
         {
                 "time" : "Bayern Munich",
-                "imagem": "img/times/bayernmu.png"
+                "imagem": "img/times/Europeus/bayernmu.png"
             },
              {
                 "time" : "Dortmund",
-                "imagem": "img/times/dortmund.png"
+                "imagem": "img/times/Europeus/dortmund.png"
             },
             {
                 "time" : "Everton",
-                "imagem": "img/times/everton.png"
+                "imagem": "img/times/Europeus/everton.png"
             },
             {
                 "time" : "Fulham",
-                "imagem": "img/times/fulham.png"
+                "imagem": "img/times/Europeus/fulham.png"
             },
             {
                 "time" : "Inter de Milão",
-                "imagem": "img/times/intermilao.png"
+                "imagem": "img/times/Europeus/intermilao.png"
             },
              {
                 "time" : "Juventus",
-                "imagem": "img/times/juventus.png"
+                "imagem": "img/times/Europeus/juventus.png"
             },
              {
                 "time" : "Lazio",
-                "imagem": "img/times/lazio.png"
+                "imagem": "img/times/Europeus/lazio.png"
             },
              {
                 "time" : "Leverkusen",
-                "imagem": "img/times/leverkusen.png"
+                "imagem": "img/times/Europeus/leverkusen.png"
             },
              {
                 "time" : "Marseille",
-                "imagem": "img/times/marseille.png"
+                "imagem": "img/times/Europeus/marseille.png"
             },
             {
                 "time" : "Milan",
-                "imagem": "img/times/milan.png"
+                "imagem": "img/times/Europeus/milan.png"
             },
             {
                 "time" : "PSG",
-                "imagem": "img/times/psg.png"
+                "imagem": "img/times/Europeus/psg.png"
             },
             {
                 "time" : "RB LEIPZIG",
-                "imagem": "img/times/rb_leipzig_ale.png"
+                "imagem": "img/times/Europeus/rb_leipzig_ale.png"
             },
              {
                 "time" : "Roma",
-                "imagem": "img/times/roma.png"
+                "imagem": "img/times/Europeus/roma.png"
             },
             {
                 "time" : "Tottenham",
-                "imagem": "img/times/tottenham.png"
+                "imagem": "img/times/Europeus/tottenham.png"
             },
             {
                 "time" : "Westham",
-                "imagem": "img/times/westham.png"
+                "imagem": "img/times/Europeus/westham.png"
             },
             
             {
                 "time" : "Ajax",
-                "imagem": "img/times/ajax.png"
+                "imagem": "img/times/Europeus/ajax.png"
             },
 
             {
                 "time" : "Benfica",
-                "imagem": "img/times/benfica.png"
+                "imagem": "img/times/Europeus/benfica.png"
             },
 
             {
                 "time" : "Napoli",
-                "imagem": "img/times/napoli.png"
+                "imagem": "img/times/Europeus/napoli.png"
             },
 
             
             {
                 "time" : "Fiorentina",
-                "imagem": "img/times/fiore.png"
+                "imagem": "img/times/Europeus/fiore.png"
             },
             
 
             
             {
                 "time" : "Porto",
-                "imagem": "img/times/porto.png"
+                "imagem": "img/times/Europeus/porto.png"
             },
 
                
             {
                 "time" : "PSV",
-                "imagem": "img/times/psv.png"
+                "imagem": "img/times/Europeus/psv.png"
             }]
 
 
@@ -160,140 +160,275 @@
         "times": [
             {
                 "time" : "Flamengo",
-                "imagem": "img/times/fla.png"
+                "imagem": "img/times/AmericaDoSul/fla.png"
             },
              {
                 "time" : "Internacional",
-                "imagem": "img/times/interrs.png"
+                "imagem": "img/times/AmericaDoSul/interrs.png"
             },
              {
                 "time" : "Santos",
-                "imagem": "img/times/santos.png"
+                "imagem": "img/times/AmericaDoSul/santos.png"
             },
              {
                 "time" : "São Paulo",
-                "imagem": "img/times/saopaulo.png"
+                "imagem": "img/times/AmericaDoSul/saopaulo.png"
             },
              {
                 "time" : "Palmeiras",
-                "imagem": "img/times/palmeiras.png"
+                "imagem": "img/times/AmericaDoSul/palmeiras.png"
             },
              {
                 "time" : "Fluminense",
-                "imagem": "img/times/fluminense.png"
+                "imagem": "img/times/AmericaDoSul/fluminense.png"
             },
              {
                 "time" : "Cruzeiro",
-                "imagem": "img/times/cruzeiro.png"
+                "imagem": "img/times/AmericaDoSul/cruzeiro.png"
             },
              {
                 "time" : "Corinthians",
-                "imagem": "img/times/corinthians.png"
+                "imagem": "img/times/AmericaDoSul/corinthians.png"
             },
              {
                 "time" : "Botafogo",
-                "imagem": "img/times/botafogo.gif"
+                "imagem": "img/times/AmericaDoSul/botafogo.gif"
             },
              {
                 "time" : "Boca Juniors",
-                "imagem": "img/times/boca.png"
+                "imagem": "img/times/AmericaDoSul/boca.png"
             },
              {
                 "time" : "Lanus",
-                "imagem": "img/times/lanusc.png"
+                "imagem": "img/times/AmericaDoSul/lanusc.png"
             },
              {
                 "time" : "River Plate",
-                "imagem": "img/times/riverc.png"
+                "imagem": "img/times/AmericaDoSul/riverc.png"
             },
              {
                 "time" : "Racing",
-                "imagem": "img/times/racing.png"
+                "imagem": "img/times/AmericaDoSul/racing.png"
             },
              {
                 "time" : "Independiente",
-                "imagem": "img/times/indepc.png"
+                "imagem": "img/times/AmericaDoSul/indepc.png"
             },
              {
                 "time" : "San Lorenzo ",
-                "imagem": "img/times/san_loc.png"
+                "imagem": "img/times/AmericaDoSul/san_loc.png"
             },
              {
                 "time" : "Defensa Y Justicia",
-                "imagem": "img/times/defensayjusticia.png"
+                "imagem": "img/times/AmericaDoSul/defensayjusticia.png"
             },
             {
                 "time" : "Central Cordoba",
-                "imagem": "img/times/central_cord_santiago_arg.png"
+                "imagem": "img/times/AmericaDoSul/central_cord_santiago_arg.png"
             },
             {
                 "time" : "Penarol",
-                "imagem": "img/times/penarol.png"
+                "imagem": "img/times/AmericaDoSul/penarol.png"
             },
              {
                 "time" : "Nacional URU",
-                "imagem": "img/times/naciouru.png"
+                "imagem": "img/times/AmericaDoSul/naciouru.png"
              },
                {
                 "time" : "Universidade Catolica ECU",
-                "imagem": "img/times/un_catolica_ecu.png"
+                "imagem": "img/times/AmericaDoSul/un_catolica_ecu.png"
              },
               {
                 "time" : "LDU",
-                "imagem": "img/times/ldu.png"
+                "imagem": "img/times/AmericaDoSul/ldu.png"
              },
              {
                 "time" : "Emelec",
-                "imagem": "img/times/emelec.png"
+                "imagem": "img/times/AmericaDoSul/emelec.png"
              },
               {
                 "time" : "Barcelona EQU",
-                "imagem": "img/times/barcelonaeq.png"
+                "imagem": "img/times/AmericaDoSul/barcelonaeq.png"
              },
               {
                 "time" : "Libertad",
-                "imagem": "img/times/libertad.png"
+                "imagem": "img/times/AmericaDoSul/libertad.png"
              },
               {
                 "time" : "Cerro Porteno",
-                "imagem": "img/times/cerropor.jpg"
+                "imagem": "img/times/AmericaDoSul/cerropor.jpg"
              },
               {
                 "time" : "Nacional PAR",
-                "imagem": "img/times/nacional_par.png"
+                "imagem": "img/times/AmericaDoSul/nacional_par.png"
              },
               {
                 "time" : "Olimpia",
-                "imagem": "img/times/olimpia.png"
+                "imagem": "img/times/AmericaDoSul/olimpia.png"
              },
               {
                 "time" : "Cristal",
-                "imagem": "img/times/cristal.jpg"
+                "imagem": "img/times/AmericaDoSul/cristal.jpg"
              },
               {
                 "time" : "Deportes Tolima",
-                "imagem": "img/times/dtolima_col.png"
+                "imagem": "img/times/AmericaDoSul/dtolima_col.png"
              },
              {
                 "time" : "Atlético Nacional",
-                "imagem": "img/times/medelin.png"
+                "imagem": "img/times/AmericaDoSul/medelin.png"
              },
              {
                 "time" : "Universidade Catolica Chile",
-                "imagem": "img/times/unicatolica.png"
+                "imagem": "img/times/AmericaDoSul/unicatolica.png"
              },
              {
                 "time" : "Universidade Del Chile",
-                "imagem": "img/times/unichile.png"
+                "imagem": "img/times/AmericaDoSul/unichile.png"
              },
              {
                 "time" : "Colo Colo",
-                "imagem": "img/times/colocolo.png"
+                "imagem": "img/times/AmericaDoSul/colocolo.png"
              },
              {
                 "time" : "Bolivar",
-                "imagem": "img/times/bolivar.png"
+                "imagem": "img/times/AmericaDoSul/bolivar.png"
              }
+            
+        
+        ]
+
+},
+
+{
+
+        "Continente": "FifaCup",
+        "times": [
+            {
+                "time" : "Red Bull Salzburg",
+                "imagem": "img/times/fifacup/salzburg2.png"
+            },
+            {
+                "time" : "Real Madrid",
+                "imagem": "img/times/fifacup/real.png"
+            },
+            {
+                "time" : "Pachuca",
+                "imagem": "img/times/fifacup/pachuca.png"
+            },
+            {
+                "time" : "Al Hilal",
+                "imagem": "img/times/fifacup/alhilal_ara.png"
+            },
+            {
+                "time" : "Wydad Casablanca",
+                "imagem": "img/times/fifacup/wydadcasabl_mar.png"
+            },
+            {
+                "time" : "Manchester City",
+                "imagem": "img/times/fifacup/man_city.png"
+            },
+            {
+                "time" : "Juventus",
+                "imagem": "img/times/fifacup/juventus_new.png"
+            },
+            {
+                "time" : "Al Ain",
+                "imagem": "img/times/fifacup/al_ain_uae.png"
+            },
+            {
+                "time" : "Ulsan HD",
+                "imagem": "img/times/fifacup/ulsan_cor.png"
+            },
+            {
+                "time" : "Mamelodi Sundowns",
+                "imagem": "img/times/fifacup/mamelodisundowns_afs.png"
+            },
+            {
+                "time" : "Fluminense",
+                "imagem": "img/times/fifacup/fluminense.png"
+            },
+            {
+                "time" : "Borussia Dortmund",
+                "imagem": "img/times/fifacup/borusia.png"
+            },
+            {
+                "time" : "Urawa Red Diamonds",
+                "imagem": "img/times/fifacup/urawa.jpg"
+            },
+            {
+                "time" : "River Plate",
+                "imagem": "img/times/fifacup/riverc.png"
+            },
+            {
+                "time" : "Monterrey",
+                "imagem": "img/times/fifacup/monterrey.png"
+            },
+            {
+                "time" : "Los Angeles FC",
+                "imagem": "img/times/fifacup/los_angeles_shield.png"
+            },
+            {
+                "time" : "Flamengo",
+                "imagem": "img/times/fifacup/fla.png"
+            },
+            {
+                "time" : "Esperance",
+                "imagem": "img/times/fifacup/esperance_tun.png"
+            },
+            {
+                "time" : "Chelsea",
+                "imagem": "img/times/fifacup/chelsea.png"
+            },
+            {
+                "time" : "Boca Juniors",
+                "imagem": "img/times/fifacup/bocc.png"
+            },
+            {
+                "time" : "Benfica",
+                "imagem": "img/times/fifacup/benfica.png"
+            },
+            {
+                "time" : "Bayern",
+                "imagem": "img/times/fifacup/bayern.png"
+            },
+            {
+                "time" : "Auckland City",
+                "imagem": "img/times/fifacup/auckland_city.png"
+            },
+            {
+                "time" : "Seattle Sounders",
+                "imagem": "img/times/fifacup/seattle_sounders_usa.png"
+            },
+            {
+                "time" : "Paris Saint Germain",
+                "imagem": "img/times/fifacup/psg.png"
+            },
+            {
+                "time" : "Botafogo",
+                "imagem": "img/times/fifacup/botafogo.gif"
+            },
+            {
+                "time" : "Atlético de Madrid",
+                "imagem": "img/times/fifacup/atl.png"
+            },
+            {
+                "time" : "Porto",
+                "imagem": "img/times/fifacup/porto.png"
+            },
+            {
+                "time" : "Palmeiras",
+                "imagem": "img/times/fifacup/palmeiras.png"
+            },
+            {
+                "time" : "Inter Miami",
+                "imagem": "img/times/fifacup/inter_miami_mls.png"
+            },
+            {
+                "time" : "Al Ahly",
+                "imagem": "img/times/fifacup/alahly_egi.png"
+            }
+        
             
         
         ]

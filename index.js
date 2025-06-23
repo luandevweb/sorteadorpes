@@ -21,6 +21,18 @@ document.getElementById("europa").addEventListener("click",function(){
     window.location.href = "index.html"
 })
 
+document.getElementById("fifacup").addEventListener("click",function(){
+    localStorage.setItem("continente","FifaCup")
+   window.location.href = "index.html"
+ 
+})
+
+document.getElementById("brasileirao").addEventListener("click",function(){
+    //localStorage.setItem("continente","Europa")
+    //window.location.href = "index.html"
+    alert("Brasileirão (Página em construção)")
+})
+
 
 
 
@@ -65,7 +77,7 @@ if(confronto){
 
     if(confronto.times.length < 1){
 
-        alert("NÃO HÁ MAIS TIMES NESTE CONTINENTE DISPONÍVEL :)")
+        alert("NÃO HÁ MAIS TIMES NESTE CAMPEONATO DISPONÍVEL :)")
 
     }else{
 
