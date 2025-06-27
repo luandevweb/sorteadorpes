@@ -105,10 +105,6 @@ margin-left: 2px;
 
 }
 
-.testando{
-    display: block;
-}
-
 
 .nome-do-time{
 flex: 70%;
@@ -168,10 +164,46 @@ h3{
     height: 356px;
     border: 2px solid black;
 }
+
+.competicoes:hover{
+border: 2px solid red;
+}
 .competicoes img{
     width: 150px;
     height:300px;
 }
 
+#carregando-campeonato{
+    position: absolute;
+    top:350px;
+    left: 65px;
+    background-color: gray;
+    border: 5px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 30px;
+
+}
+
+@media (min-width: 414px){
+
+    #carregando-campeonato{
+
+           left: 90px;
+    }
+    
+}
+
+@media (min-width: 500px){
+
+    #carregando-campeonato{
+
+           left: 125px;
+    }
+    
+}
 
 

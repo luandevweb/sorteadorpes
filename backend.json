@@ -1,152 +1,184 @@
-[
+﻿[
     {
 
         "Continente": "Europa",
         "times": [
             {
                 "time" : "Real Madrid",
-                "imagem": "img/times/Europeus/realmadrid.png"
+                "imagem": "img/times/Europeus/realmadrid.png",
+                "audio" : "audio/Europeus/realmadrid.m4a"
             },
             {
                 "time" : "Barcelona",
-                "imagem": "img/times/Europeus/barcelona.png"
+                "imagem": "img/times/Europeus/barcelona.png",
+                "audio" : "audio/Europeus/barcelona.m4a"
             },
             {
                 "time" : "Atlético de Madrid",
-                "imagem": "img/times/Europeus/atleticodemadrid.png"
+                "imagem": "img/times/Europeus/atleticodemadrid.png",
+                "audio" : "audio/Europeus/atleticodemadrid.m4a"
             },
             {
                 "time" : "Chelsea",
-                "imagem": "img/times/Europeus/chelsea.png"
+                "imagem": "img/times/Europeus/chelsea.png",
+                "audio" : "audio/Europeus/chelsea.m4a"
             },
 
             {
                 "time" : "Liverpool",
-                "imagem": "img/times/Europeus/liverpool.png"
+                "imagem": "img/times/Europeus/liverpool.png",
+                "audio" : "audio/Europeus/liverpool.m4a"
             },
 
             {
                 "time" : "Manchester United",
-                "imagem": "img/times/Europeus/united.png"
+                "imagem": "img/times/Europeus/united.png",
+                "audio" : "audio/Europeus/united.m4a"
             },
             
             {
                 "time" : "Manchester City",
-                "imagem": "img/times/Europeus/city.png"
+                "imagem": "img/times/Europeus/city.png",
+                "audio" : "audio/Europeus/city.m4a"
             },
 
             {
                 "time" : "Arsenal",
-                "imagem": "img/times/Europeus/arsenal.png"
+                "imagem": "img/times/Europeus/arsenal.png",
+                "audio" : "audio/Europeus/arsenal.m4a"
             },
 
              {
                 "time" : "Aston Vila",
-                "imagem": "img/times/Europeus/aston.png"
+                "imagem": "img/times/Europeus/aston.png",
+                "audio" : "audio/Europeus/aston.m4a"
             },
 
              {
                 "time" : "Atalanta",
-                "imagem": "img/times/Europeus/atalanta.png"
+                "imagem": "img/times/Europeus/atalanta.png",
+                "audio" : "audio/Europeus/atalanta.m4a"
             },
             {
                 "time" : "Atlético Bilbão",
-                "imagem": "img/times/Europeus/athletic.png"
+                "imagem": "img/times/Europeus/athletic.png",
+                "audio" : "audio/Europeus/athletic.m4a"
             },
 
         {
                 "time" : "Bayern Munich",
-                "imagem": "img/times/Europeus/bayernmu.png"
+                "imagem": "img/times/Europeus/bayernmu.png",
+                "audio" : "audio/Europeus/bayernmu.m4a"
             },
              {
                 "time" : "Dortmund",
-                "imagem": "img/times/Europeus/dortmund.png"
+                "imagem": "img/times/Europeus/dortmund.png",
+                "audio" : "audio/Europeus/dortmund.m4a"
             },
             {
                 "time" : "Everton",
-                "imagem": "img/times/Europeus/everton.png"
+                "imagem": "img/times/Europeus/everton.png",
+                "audio" : "audio/Europeus/everton.m4a"
             },
             {
                 "time" : "Fulham",
-                "imagem": "img/times/Europeus/fulham.png"
+                "imagem": "img/times/Europeus/fulham.png",
+                "audio" : "audio/Europeus/fulham.m4a"
             },
             {
                 "time" : "Inter de Milão",
-                "imagem": "img/times/Europeus/intermilao.png"
+                "imagem": "img/times/Europeus/intermilao.png",
+                "audio" : "audio/Europeus/intermilao.m4a"
             },
              {
                 "time" : "Juventus",
-                "imagem": "img/times/Europeus/juventus.png"
+                "imagem": "img/times/Europeus/juventus.png",
+                "audio" : "audio/Europeus/juventus.m4a"
             },
              {
                 "time" : "Lazio",
-                "imagem": "img/times/Europeus/lazio.png"
+                "imagem": "img/times/Europeus/lazio.png",
+                "audio" : "audio/Europeus/lazio.m4a"
             },
              {
                 "time" : "Leverkusen",
-                "imagem": "img/times/Europeus/leverkusen.png"
+                "imagem": "img/times/Europeus/leverkusen.png",
+                "audio" : "audio/Europeus/leverkusen.m4a"
             },
              {
                 "time" : "Marseille",
-                "imagem": "img/times/Europeus/marseille.png"
+                "imagem": "img/times/Europeus/marseille.png",
+                "audio" : "audio/Europeus/marseille.m4a"
             },
             {
                 "time" : "Milan",
-                "imagem": "img/times/Europeus/milan.png"
+                "imagem": "img/times/Europeus/milan.png",
+                "audio" : "audio/Europeus/milan.m4a"
             },
             {
                 "time" : "PSG",
-                "imagem": "img/times/Europeus/psg.png"
+                "imagem": "img/times/Europeus/psg.png",
+                "audio" : "audio/Europeus/psg.m4a"
             },
             {
                 "time" : "RB LEIPZIG",
-                "imagem": "img/times/Europeus/rb_leipzig_ale.png"
+                "imagem": "img/times/Europeus/rb_leipzig_ale.png",
+                "audio" : "audio/Europeus/rb_leipzig_ale.m4a"
             },
              {
                 "time" : "Roma",
-                "imagem": "img/times/Europeus/roma.png"
+                "imagem": "img/times/Europeus/roma.png",
+                "audio" : "audio/Europeus/roma.m4a"
             },
             {
                 "time" : "Tottenham",
-                "imagem": "img/times/Europeus/tottenham.png"
+                "imagem": "img/times/Europeus/tottenham.png",
+                "audio" : "audio/Europeus/tottenham.m4a"
             },
             {
                 "time" : "Westham",
-                "imagem": "img/times/Europeus/westham.png"
+                "imagem": "img/times/Europeus/westham.png",
+                "audio" : "audio/Europeus/westham.m4a"
             },
             
             {
                 "time" : "Ajax",
-                "imagem": "img/times/Europeus/ajax.png"
+                "imagem": "img/times/Europeus/ajax.png",
+                "audio" : "audio/Europeus/ajax.m4a"
             },
 
             {
                 "time" : "Benfica",
-                "imagem": "img/times/Europeus/benfica.png"
+                "imagem": "img/times/Europeus/benfica.png",
+                "audio" : "audio/Europeus/benfica.m4a"
             },
 
             {
                 "time" : "Napoli",
-                "imagem": "img/times/Europeus/napoli.png"
+                "imagem": "img/times/Europeus/napoli.png",
+                "audio" : "audio/Europeus/napoli.m4a"
             },
 
             
             {
                 "time" : "Fiorentina",
-                "imagem": "img/times/Europeus/fiore.png"
+                "imagem": "img/times/Europeus/fiore.png",
+                "audio" : "audio/Europeus/fiorentina.m4a"
             },
             
 
             
             {
                 "time" : "Porto",
-                "imagem": "img/times/Europeus/porto.png"
+                "imagem": "img/times/Europeus/porto.png",
+                "audio" : "audio/Europeus/porto.m4a"
             },
 
                
             {
                 "time" : "PSV",
-                "imagem": "img/times/Europeus/psv.png"
+                "imagem": "img/times/Europeus/psv.png",
+                "audio" : "audio/Europeus/psv.m4a"
             }]
 
 
@@ -160,139 +192,173 @@
         "times": [
             {
                 "time" : "Flamengo",
-                "imagem": "img/times/AmericaDoSul/fla.png"
+                "imagem": "img/times/AmericaDoSul/fla.png",
+                "audio" : "audio/AmericaDoSul/flamengo.m4a"
             },
              {
                 "time" : "Internacional",
-                "imagem": "img/times/AmericaDoSul/interrs.png"
+                "imagem": "img/times/AmericaDoSul/interrs.png",
+                "audio" : "audio/AmericaDoSul/internacional.m4a"
             },
              {
                 "time" : "Santos",
-                "imagem": "img/times/AmericaDoSul/santos.png"
+                "imagem": "img/times/AmericaDoSul/santos.png",
+                "audio" : "audio/AmericaDoSul/santos.m4a"
             },
              {
                 "time" : "São Paulo",
-                "imagem": "img/times/AmericaDoSul/saopaulo.png"
+                "imagem": "img/times/AmericaDoSul/saopaulo.png",
+                "audio" : "audio/AmericaDoSul/saopaulo.m4a"
             },
              {
                 "time" : "Palmeiras",
-                "imagem": "img/times/AmericaDoSul/palmeiras.png"
+                "imagem": "img/times/AmericaDoSul/palmeiras.png",
+                "audio" : "audio/AmericaDoSul/palmeiras.m4a"
             },
              {
                 "time" : "Fluminense",
-                "imagem": "img/times/AmericaDoSul/fluminense.png"
+                "imagem": "img/times/AmericaDoSul/fluminense.png",
+                "audio" : "audio/AmericaDoSul/fluminense.m4a"
             },
              {
                 "time" : "Cruzeiro",
-                "imagem": "img/times/AmericaDoSul/cruzeiro.png"
+                "imagem": "img/times/AmericaDoSul/cruzeiro.png",
+                "audio" : "audio/AmericaDoSul/cruzeiro.m4a"
             },
              {
                 "time" : "Corinthians",
-                "imagem": "img/times/AmericaDoSul/corinthians.png"
+                "imagem": "img/times/AmericaDoSul/corinthians.png",
+                "audio" : "audio/AmericaDoSul/corinthians.m4a"
             },
              {
                 "time" : "Botafogo",
-                "imagem": "img/times/AmericaDoSul/botafogo.gif"
+                "imagem": "img/times/AmericaDoSul/botafogo.gif",
+                "audio" : "audio/AmericaDoSul/botafogo.m4a"
             },
              {
                 "time" : "Boca Juniors",
-                "imagem": "img/times/AmericaDoSul/boca.png"
+                "imagem": "img/times/AmericaDoSul/boca.png",
+                "audio" : "audio/AmericaDoSul/bocajuniors.m4a"
             },
              {
                 "time" : "Lanus",
-                "imagem": "img/times/AmericaDoSul/lanusc.png"
+                "imagem": "img/times/AmericaDoSul/lanusc.png",
+                "audio" : "audio/AmericaDoSul/lanus.m4a"
             },
              {
                 "time" : "River Plate",
-                "imagem": "img/times/AmericaDoSul/riverc.png"
+                "imagem": "img/times/AmericaDoSul/riverc.png",
+                "audio" : "audio/AmericaDoSul/riverplate.m4a"
             },
              {
                 "time" : "Racing",
-                "imagem": "img/times/AmericaDoSul/racing.png"
+                "imagem": "img/times/AmericaDoSul/racing.png",
+                "audio" : "audio/AmericaDoSul/racing.m4a"
             },
              {
                 "time" : "Independiente",
-                "imagem": "img/times/AmericaDoSul/indepc.png"
+                "imagem": "img/times/AmericaDoSul/indepc.png",
+                "audio" : "audio/AmericaDoSul/independiente.m4a"
             },
              {
                 "time" : "San Lorenzo ",
-                "imagem": "img/times/AmericaDoSul/san_loc.png"
+                "imagem": "img/times/AmericaDoSul/san_loc.png",
+                "audio" : "audio/AmericaDoSul/sanlorenzo.m4a"
             },
              {
                 "time" : "Defensa Y Justicia",
-                "imagem": "img/times/AmericaDoSul/defensayjusticia.png"
+                "imagem": "img/times/AmericaDoSul/defensayjusticia.png",
+                "audio" : "audio/AmericaDoSul/defensayjusticia.m4a"
             },
             {
                 "time" : "Central Cordoba",
-                "imagem": "img/times/AmericaDoSul/central_cord_santiago_arg.png"
+                "imagem": "img/times/AmericaDoSul/central_cord_santiago_arg.png",
+                "audio" : "audio/AmericaDoSul/centralcordoba.m4a"
             },
             {
-                "time" : "Penarol",
-                "imagem": "img/times/AmericaDoSul/penarol.png"
+                "time" : "Peñarol",
+                "imagem": "img/times/AmericaDoSul/penarol.png",
+                "audio" : "audio/AmericaDoSul/penarol.m4a"
             },
              {
                 "time" : "Nacional URU",
-                "imagem": "img/times/AmericaDoSul/naciouru.png"
+                "imagem": "img/times/AmericaDoSul/naciouru.png",
+                "audio" : "audio/AmericaDoSul/nacionaluru.m4a"
              },
                {
                 "time" : "Universidade Catolica ECU",
-                "imagem": "img/times/AmericaDoSul/un_catolica_ecu.png"
+                "imagem": "img/times/AmericaDoSul/un_catolica_ecu.png",
+                "audio" : "audio/AmericaDoSul/universidadecatolicaecu.m4a"
              },
               {
                 "time" : "LDU",
-                "imagem": "img/times/AmericaDoSul/ldu.png"
+                "imagem": "img/times/AmericaDoSul/ldu.png",
+                "audio" : "audio/AmericaDoSul/ldu.m4a"
              },
              {
                 "time" : "Emelec",
-                "imagem": "img/times/AmericaDoSul/emelec.png"
+                "imagem": "img/times/AmericaDoSul/emelec.png",
+                "audio" : "audio/AmericaDoSul/emelec.m4a"
              },
               {
                 "time" : "Barcelona EQU",
-                "imagem": "img/times/AmericaDoSul/barcelonaeq.png"
+                "imagem": "img/times/AmericaDoSul/barcelonaeq.png",
+                "audio" : "audio/AmericaDoSul/barcelonaequ.m4a"
              },
               {
                 "time" : "Libertad",
-                "imagem": "img/times/AmericaDoSul/libertad.png"
+                "imagem": "img/times/AmericaDoSul/libertad.png",
+                "audio" : "audio/AmericaDoSul/libertad.m4a"
              },
               {
                 "time" : "Cerro Porteno",
-                "imagem": "img/times/AmericaDoSul/cerropor.jpg"
+                "imagem": "img/times/AmericaDoSul/cerropor.jpg",
+                "audio" : "audio/AmericaDoSul/cerroporteno.m4a"
              },
               {
                 "time" : "Nacional PAR",
-                "imagem": "img/times/AmericaDoSul/nacional_par.png"
+                "imagem": "img/times/AmericaDoSul/nacional_par.png",
+                "audio" : "audio/AmericaDoSul/nacionalpar.m4a"
              },
               {
                 "time" : "Olimpia",
-                "imagem": "img/times/AmericaDoSul/olimpia.png"
+                "imagem": "img/times/AmericaDoSul/olimpia.png",
+                "audio" : "audio/AmericaDoSul/olympia.m4a"
              },
               {
                 "time" : "Cristal",
-                "imagem": "img/times/AmericaDoSul/cristal.jpg"
+                "imagem": "img/times/AmericaDoSul/cristal.jpg",
+                "audio" : "audio/AmericaDoSul/cristal.m4a"
              },
               {
                 "time" : "Deportes Tolima",
-                "imagem": "img/times/AmericaDoSul/dtolima_col.png"
+                "imagem": "img/times/AmericaDoSul/dtolima_col.png",
+                "audio" : "audio/AmericaDoSul/deportestolima.m4a"
              },
              {
                 "time" : "Atlético Nacional",
-                "imagem": "img/times/AmericaDoSul/medelin.png"
+                "imagem": "img/times/AmericaDoSul/medelin.png",
+                "audio" : "audio/AmericaDoSul/atleticonacional.m4a"
              },
              {
                 "time" : "Universidade Catolica Chile",
-                "imagem": "img/times/AmericaDoSul/unicatolica.png"
+                "imagem": "img/times/AmericaDoSul/unicatolica.png",
+                "audio" : "audio/AmericaDoSul/universidadecatolicachile.m4a"
              },
              {
                 "time" : "Universidade Del Chile",
-                "imagem": "img/times/AmericaDoSul/unichile.png"
+                "imagem": "img/times/AmericaDoSul/unichile.png",
+                "audio" : "audio/AmericaDoSul/universidadedelchile.m4a"
              },
              {
                 "time" : "Colo Colo",
-                "imagem": "img/times/AmericaDoSul/colocolo.png"
+                "imagem": "img/times/AmericaDoSul/colocolo.png",
+                "audio" : "audio/AmericaDoSul/universidadecatolicachile.m4a"
              },
              {
                 "time" : "Bolivar",
-                "imagem": "img/times/AmericaDoSul/bolivar.png"
+                "imagem": "img/times/AmericaDoSul/bolivar.png",
+                "audio" : "audio/AmericaDoSul/bolivar.m4a"
              }
             
         
@@ -433,8 +499,101 @@
         
         ]
 
-}
+},
 
+{
 
+        "Continente": "Brasileirao",
+        "times": [
+            {
+                "time" : "Atlético Mineiro",
+                "imagem": "img/times/Brasileirao/atletico.png",
+                "audio" : "audio/Brasileirao/flamengo.m4a"
+            },
+           {
+                "time" : "Flamengo",
+                "imagem": "img/times/Brasileirao/fla.png",
+                "audio" : "audio/Brasileirao/flamengo.m4a"
+            },
+             {
+                "time" : "Internacional",
+                "imagem": "img/times/Brasileirao/interrs.png",
+                "audio" : "audio/Brasileirao/internacional.m4a"
+            },
+             {
+                "time" : "Santos",
+                "imagem": "img/times/Brasileirao/santos.png",
+                "audio" : "audio/Brasileirao/santos.m4a"
+            },
+             {
+                "time" : "São Paulo",
+                "imagem": "img/times/Brasileirao/saopaulo.png",
+                "audio" : "audio/Brasileirao/saopaulo.m4a"
+            },
+             {
+                "time" : "Palmeiras",
+                "imagem": "img/times/Brasileirao/palmeiras.png",
+                "audio" : "audio/Brasileirao/palmeiras.m4a"
+            },
+             {
+                "time" : "Fluminense",
+                "imagem": "img/times/Brasileirao/fluminense.png",
+                "audio" : "audio/Brasileirao/fluminense.m4a"
+            },
+             {
+                "time" : "Cruzeiro",
+                "imagem": "img/times/Brasileirao/cruzeiro.png"
+            },
+             {
+                "time" : "Corinthians",
+                "imagem": "img/times/Brasileirao/corinthians.png"
+            },
+             {
+                "time" : "Botafogo",
+                "imagem": "img/times/Brasileirao/botafogo.gif"
+            },
+              {
+                "time" : "Bahia",
+                "imagem": "img/times/Brasileirao/bahia.png"
+            },
+             {
+                "time" : "Rb Bragantino",
+                "imagem": "img/times/Brasileirao/bragantino.png"
+            },
+             {
+                "time" : "Ceará",
+                "imagem": "img/times/Brasileirao/ceara.png"
+            },
+             {
+                "time" : "Fortaleza",
+                "imagem": "img/times/Brasileirao/fortaleza.png"
+            },
+            {
+                "time" : "Grêmio",
+                "imagem": "img/times/Brasileirao/gremio.png"
+            },
+            {
+                "time" : "Juventude",
+                "imagem": "img/times/Brasileirao/juventude.png"
+            },
+            {
+                "time" : "Mirassol",
+                "imagem": "img/times/Brasileirao/mirassol.jpg"
+            },
+            {
+                "time" : "Sport",
+                "imagem": "img/times/Brasileirao/sport.gif"
+            },
+            {
+                "time" : "Vasco",
+                "imagem": "img/times/Brasileirao/vasco.png"
+            },
+            {
+                "time" : "Vitoria",
+                "imagem": "img/times/Brasileirao/vitoria.png"
+            }
+        ]
+
+        }
     
 ]
